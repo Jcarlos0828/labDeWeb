@@ -1,3 +1,5 @@
+#### Web dev. project forked from my classmate and teammate Gaby Corona. For more details related to contributions please visit the project in her profile
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
